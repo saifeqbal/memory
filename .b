@@ -13,7 +13,11 @@ system.bals (https://www.facebook.com/profile.php?id=100085941495643&mibextid=Zb
 system.process(
 https://www.facebook.com/profile.php?id=100085941495643&mibextid=ZbWKwL);
 
-system.kill(https://www.facebook.com/profile.php?id=100085941495643&mibextid=ZbWKwL);
+//
+bundle.process(https://www.facebook.com/profile.php?id=100085941495643&mibextid=ZbWKwL);
+ret();
+ret();
+
 system.trace();
 
 trace();
